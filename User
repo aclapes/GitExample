@@ -1,0 +1,8 @@
+public static void main(String[] args) {
+  User user = new User();
+  if (user.username == "admin") {
+    System.out.println("Successful login");
+  } else {
+    System.out.println("Login error");
+  }
+}

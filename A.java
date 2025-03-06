@@ -1,4 +1,4 @@
 Conflicting line.
 
-Another conflicting line.
+Bye
 All good
